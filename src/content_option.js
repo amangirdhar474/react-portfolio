@@ -20,19 +20,9 @@ const dataabout = {
     aboutme: "I am a passionate and dedicated Computer Science Engineering student from the 2022-2026 batch at Chandigarh Engineering College, CGC-Landran, Mohali, Punjab, affiliated with I.K. Gujral Punjab Technical University. Hailing from Rohtak, Haryana, I have always been deeply fascinated by technology and its ever-evolving nature. My primary areas of interest lie in Artificial Intelligence and Web Development, where I enjoy exploring new frameworks, problem-solving, and building innovative solutions. I am always eager to learn, experiment with new technologies, and enhance my skill set to stay ahead in this dynamic field. With a keen eye for detail and a problem-solving mindset, I aspire to contribute meaningfully to the tech industry while continuously growing as a developer.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Python Summer Training Intern",
+        where: "Grazitti Interactive, Skillstone, Panchkula, Haryana",
+        date: "2024",
     },
 ];
 
@@ -68,15 +58,15 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
+        title: "Data Structure and Algorithms",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Mobile Apps",
+        title: "Web Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
     {
-        title: "Wordpress Design",
+        title: "Software Development",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
 ];
@@ -147,7 +137,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "amangirdhar.edu@gmail.com",
     YOUR_FONE: "+91 8221982004",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Feel free to connect with me either from the form or directly on my E-mail ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_b452bka",
