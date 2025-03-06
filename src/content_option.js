@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/amangirdhar2004",
+    facebook: "https://www.instagram.com/aman_girdhar07/",
+    linkedin: "www.linkedin.com/in/aman-girdhar-a92a052aa",
+    twitter: "https://x.com/amangirdhar20",
 };
 export {
     meta,
