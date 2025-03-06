@@ -6,7 +6,7 @@
 
 .menu__button {
     color: var(--text-color);
-    opacity: 0.5;
+    opacity: 0.2;
 }
 
 .menu__button:focus,
