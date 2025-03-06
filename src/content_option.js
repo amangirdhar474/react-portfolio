@@ -12,7 +12,7 @@ const introdata = {
         third: "I love to explore new technologies",
     },
     description: "Dynamic B. Tech graduate in Computer Science with expertise in software development and database management. Proficient in Java, Python, and SQL. Effective communicator with strong teamwork and leadership abilities, eager to contribute technical proficiency and collaborative skills to a progressive IT team.",
-    your_img_url: "https://unsplash.com/photos/a-woman-standing-in-front-of-a-mirror-brushing-her-teeth-vuwDHNmwvHQ",
+    your_img_url: "https://images.pexels.com/photos/31039926/pexels-photo-31039926.jpeg",
 };
 
 const dataabout = {
