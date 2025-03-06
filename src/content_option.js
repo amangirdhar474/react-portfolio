@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About Me",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a passionate and dedicated Computer Science Engineering student from the 2022-2026 batch at Chandigarh Engineering College, CGC-Landran, Mohali, Punjab, affiliated with I.K. Gujral Punjab Technical University. Hailing from Rohtak, Haryana, I have always been deeply fascinated by technology and its ever-evolving nature. My primary areas of interest lie in Artificial Intelligence and Web Development, where I enjoy exploring new frameworks, problem-solving, and building innovative solutions. I am always eager to learn, experiment with new technologies, and enhance my skill set to stay ahead in this dynamic field. With a keen eye for detail and a problem-solving mindset, I aspire to contribute meaningfully to the tech industry while continuously growing as a developer.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
