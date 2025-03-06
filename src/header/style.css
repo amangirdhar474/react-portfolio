@@ -34,6 +34,7 @@
     height: 50px;
     font-weight: bold;
     z-index: 1000;
+    opacity:0.4;
 }
 
 .nav_ac:hover {
