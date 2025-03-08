@@ -77,24 +77,24 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/dd07c166-37b4-4e03-ab4e-8c6f71414431/public_url",
     },
     {
+        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
+        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
+        description: "The wisdom of life consists in the elimination of non-essentials.",
+        link: "#",
+    },
+    {
         img: "https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png",
         description: "AWS Academy Graduate - AWS Academy Cloud Foundations",
         link: "https://www.credly.com/badges/e0842a2e-3e90-4b73-b559-ce1d61e92ea4/public_url",
-    },
-    {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
@@ -113,9 +113,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/nz058ySq/logo-npetl.png",
+        description: "DataBase Managemment Systems NPETL",
+        link: "https://www.linkedin.com/posts/aman-girdhar-a92a052aa_databasemanagement-sql-nptel-activity-7294381884875161600-Xvek?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqLP84BuWfaMldzvHzaDzI2cSBzMDLM5UA",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
