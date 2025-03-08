@@ -78,17 +78,17 @@ const dataportfolio = [{
     },
     {
         img: "https://i.postimg.cc/g2hTcS2L/deploy-kubernetes-applications-on-google-cloud-skil.png",
-        description: "Deploy Kubernetes Applications on Google Cloud Skill Badge",
+        description: "Deploy Kubernetes Applications on Google Cloud",
         link: "https://www.credly.com/badges/d13e0676-b0a3-497d-8bac-f09f9e1a4d1e/public_url",
     },
     {
         img: "https://i.postimg.cc/mD9h215S/implement-load-balancing-on-compute-engine-skill-ba.png",
-        description: "Implement Load Balancing on Compute Engine Skill Badge",
+        description: "Implement Load Balancing on Compute Engine",
         link: "https://www.credly.com/badges/8645a935-dc10-4752-9b50-088cba800471/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "Implement CI/CD Pipelines on Google Cloud Skill Badge",
+        description: "Implement CI/CD Pipelines on Google Cloud",
         link: "https://www.credly.com/badges/f718d3fa-d8df-46c8-b8d5-d72801896b4c/public_url",
     },
     {
@@ -98,14 +98,14 @@ const dataportfolio = [{
     },
     {
         img: "https://i.postimg.cc/SRpRXN0b/detect-manufacturing-defects-using-visual-inspectio.png",
-        description: "Detect Manufacturing Defects using Visual Inspection AI Skill Badge",
+        description: "Detect Manufacturing Defects using Visual Inspection AI",
         link: "https://www.credly.com/badges/72cb2df6-567a-48a2-be0c-b6a567ea65a9/public_url",
     },
 
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/bNkMHyKF/configure-service-accounts-and-iam-roles-for-google.png",
+        description: "Configure Service Accounts and IAM Roles for Google Cloud",
+        link: "https://www.credly.com/badges/ec02dccd-5e40-4066-84e8-c5cbba31f168/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
@@ -118,9 +118,9 @@ const dataportfolio = [{
         link: "https://www.linkedin.com/posts/aman-girdhar-a92a052aa_databasemanagement-sql-nptel-activity-7294381884875161600-Xvek?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqLP84BuWfaMldzvHzaDzI2cSBzMDLM5UA",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/ZK2g697N/implement-devops-workflows-in-google-cloud-skill-ba.png",
+        description: "Implement DevOps Workflows in Google Cloud",
+        link: "https://www.credly.com/badges/8b620fa2-7bed-4a65-9e88-37f52d46157b/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
