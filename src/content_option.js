@@ -82,14 +82,14 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/d13e0676-b0a3-497d-8bac-f09f9e1a4d1e/public_url",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/mD9h215S/implement-load-balancing-on-compute-engine-skill-ba.png",
+        description: "Implement Load Balancing on Compute Engine Skill Badge",
+        link: "https://www.credly.com/badges/8645a935-dc10-4752-9b50-088cba800471/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Implement CI/CD Pipelines on Google Cloud Skill Badge",
+        link: "https://www.credly.com/badges/f718d3fa-d8df-46c8-b8d5-d72801896b4c/public_url",
     },
     {
         img: "https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png",
@@ -97,9 +97,9 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/e0842a2e-3e90-4b73-b559-ce1d61e92ea4/public_url",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/SRpRXN0b/detect-manufacturing-defects-using-visual-inspectio.png",
+        description: "Detect Manufacturing Defects using Visual Inspection AI Skill Badge",
+        link: "https://www.credly.com/badges/72cb2df6-567a-48a2-be0c-b6a567ea65a9/public_url",
     },
 
     {
