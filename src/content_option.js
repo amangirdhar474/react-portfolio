@@ -77,9 +77,9 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/dd07c166-37b4-4e03-ab4e-8c6f71414431/public_url",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/g2hTcS2L/deploy-kubernetes-applications-on-google-cloud-skil.png",
+        description: "Deploy Kubernetes Applications on Google Cloud Skill Badge",
+        link: "https://www.credly.com/badges/d13e0676-b0a3-497d-8bac-f09f9e1a4d1e/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
