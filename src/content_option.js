@@ -72,14 +72,14 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.credly.com/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png",
+        description: "AWS Academy Graduate - AWS Academy Cloud Operations",
+        link: "https://www.credly.com/badges/dd07c166-37b4-4e03-ab4e-8c6f71414431/public_url",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png",
+        description: "AWS Academy Graduate - AWS Academy Cloud Foundations",
+        link: "https://www.credly.com/badges/e0842a2e-3e90-4b73-b559-ce1d61e92ea4/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
