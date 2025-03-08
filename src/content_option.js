@@ -123,9 +123,9 @@ const dataportfolio = [{
         link: "https://www.credly.com/badges/8b620fa2-7bed-4a65-9e88-37f52d46157b/public_url",
     },
     {
-        img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.postimg.cc/SKSxbt6k/develop-serverless-apps-with-firebase-skill-badge.png",
+        description: "Develop Serverless Apps with Firebase Skill Badge",
+        link: "https://www.credly.com/badges/56ec3202-d637-4e60-ad19-77d147283ab2/public_url",
     },
     {
         img: "https://i.postimg.cc/W36rYj3w/logo-gcp.png",
